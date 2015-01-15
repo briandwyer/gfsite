@@ -26,19 +26,19 @@ dl, dt, dd, ol, ul, li {
 }
 
 ::selection {
-    background: #1ABC9C;
+    background: #01b49e;
     color: #FFF;
     text-shadow: none;
 }
 
 ::-moz-selection {
-    background: #1ABC9C; /* Firefox */
+    background: #01b49e; /* Firefox */
     color: #FFF;
     text-shadow: none;
 }
 
 ::-webkit-selection {
-    background: #1ABC9C; /* Safari */
+    background: #01b49e; /* Safari */
     color: #FFF;
     text-shadow: none;
 }
