@@ -6892,6 +6892,7 @@ body:not(.device-touch) .button.button-full strong {
 .button-reveal.button-amber:hover { background-color: #EB9C4D !important; }
 
 .button-black { background-color: #111; }
+.button-aqua { background-color: #00b59d; }
 .button-3d.button-black:hover,
 .button-reveal.button-black:hover { background-color: #111 !important; }
 
